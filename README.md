@@ -1,6 +1,6 @@
 # Marketing-Strategy-For-Beverages-Tableau-Project
 Beverage Sales Dashboard Analysis
-Based on the Tableau visualization, I can provide an analysis of the beverage sales data displayed in the dashboard:
+Based on the Tableau visualization,  an analysis of the beverage sales data is being done as  displayed in the dashboard:
 Overview
 The dashboard presents a comprehensive view of beverage sales across different states in the US, with a total sales value of $819,811. The visualization consists of two main components:
 
